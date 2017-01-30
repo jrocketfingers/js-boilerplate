@@ -1,0 +1,14 @@
+{
+  "libs": [
+    "browser"
+  ],
+  "loadEagerly": [
+    "index.js"
+  ],
+  "plugins": {
+    "es_modules": { },
+    "webpack": {
+      "configPath": "./webpack.config.js"
+    }
+  }
+}
